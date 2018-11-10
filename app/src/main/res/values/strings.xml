@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BasketballApp</string>
+    <string name="background">Background</string>
+    <string name="app_icon">Icon</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="on_going_all_out">ON GOING ALL OUT</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="desired_genre">DESIRED GENRE</string>
+    <string name="mens">MENS</string>
+    <string name="womens">WOMENS</string>
+    <string name="etc">ETC</string>
+    <string name="next">NEXT</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="pro">PRO</string>
+    <string name="looking_for_men_beginner_to_searching_near_you">Looking for men beginner to searching near you</string>
+    <string name="finish">Finish</string>
+</resources>
